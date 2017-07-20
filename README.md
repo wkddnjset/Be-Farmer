@@ -1,5 +1,6 @@
 # Be-Farmer
-    -Smart Fruit Sorter Using Deep Learning(CNN)
+    -Fruit Sorter Using Deep Learning(CNN)
+    -2nd Semester Capstone Design Project
 
 ## Goal 
 -
