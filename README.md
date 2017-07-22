@@ -1,7 +1,5 @@
 # Be-Farmer
->Fruit Sorter Using **Deep Learning**
->- convolutional neural network
-
+>Fruit Sorter Using **Deep Learning**  
 >2nd Semester **Capstone Design** Project
 
 ## Goal 
