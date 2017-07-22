@@ -1,6 +1,8 @@
 # Be-Farmer
-    -Fruit Sorter Using Deep Learning(CNN)
-    -2nd Semester Capstone Design Project
+>Fruit Sorter Using **Deep Learning**
+>- convolutional neural network
+
+>2nd Semester **Capstone Design** Project
 
 ## Goal 
 -
@@ -17,7 +19,7 @@
 - 서장원(wkddnjset@naver.com)
     - Deep Learning Algorithm (Python-Tensorflow)
     
-## 
+## Process
 - 
 
 ##
