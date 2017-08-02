@@ -22,4 +22,6 @@
 ## Process
 - 
 
-##
+## 참고
+- [오픈소스 3D 모델링 다운](https://grabcad.com/) (Grab_CAD)
+- [README 쓰는 방법](https://stackedit.io/editor) (Stack_Edit)
