@@ -18,6 +18,7 @@
     - Application (Android Studio)
     
 - 서장원(wkddnjset@naver.com)
+    - Mechanism Design (Soildworks)
     - Deep Learning Algorithm (Python-Tensorflow)
     
 ## Process
