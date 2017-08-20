@@ -3,13 +3,13 @@
 
 ## Goal 
 - **Application** ()
-    - **OS** *(Android)*
+    - OS *(Android)*
 
 ## Member & Role
-- 김채희()
+- **김채희**()
     - Frontend (Android Studio)
     
-- 서장원(wkddnjset@naver.com)
+- **서장원**(wkddnjset@naver.com)
     - Deep Learning Algorithm ()
     
 ## Process
