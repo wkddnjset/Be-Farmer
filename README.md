@@ -1,27 +1,21 @@
-# Be-Farmer
->Fruit Sorter Using **Deep Learning**  
->2nd Semester **Capstone Design** Project
+# project_1
+>Image Recognition Application **Deep Learning**
 
 ## Goal 
-- **Sorter** (4개의 카메라를 통해 채소를 선별하는 장치)
-    - 메인보드 [*(Raspberry pi3)*](http://www.devicemart.co.kr/1311414)
-    - 멀티 카메라 어댑터 [*(Multi Camera Adapter module)*](http://mechasolution.com/shop/goods/goods_view.php?goodsno=330859&category=046)
-    - 카메라 모듈 4개 [*(RPI 8MP CAMERA BOARD)*](http://www.devicemart.co.kr/1077951)
- 
-- **Transporter** (선별된 채소를 운반하는 장치)
+- **Application** ()
+    - **OS** *(Android)*
 
 ## Member & Role
 - 김채희()
-    - Mechanism Design (Soildworks)
-    - Deep Learning Algorithm (Python-Tensorflow)
+    - Frontend (Android Studio)
     
 - 서장원(wkddnjset@naver.com)
-    - Mechanism Design (Soildworks)
-    - Deep Learning Algorithm (Python-Tensorflow)
+    - Deep Learning Algorithm ()
     
 ## Process
 - 
 
 ## 참고
+- [Deep Learning for Java](https://deeplearning4j.org/kr-index) (DL4J)
 - [오픈소스 3D 모델링 다운](https://grabcad.com/) (Grab_CAD)
 - [README 쓰는 방법](https://stackedit.io/editor) (Stack_Edit)
