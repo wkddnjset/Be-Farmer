@@ -6,7 +6,6 @@
       - Search Image from website (flickr.com)
   - **Session 2**
     - PreProcessing and Feature Extraction
-    ![](./img/pre-processing.png)
       + 유효한 이미지인지 확인한다.
       <br>(Verify that a valid image is valid.)
       + *[EXIF](https://sno.phy.queensu.ca/~phil/exiftool/TagNames/EXIF.html) 태그*를 확인하여 초점길이를 기록한다.
@@ -18,6 +17,7 @@
       (Use SIFT++ by Andrea Vedaldi for its speed and flexible interface.) [[help](http://vision.ucla.edu/)]
       + 최종 데이터셋은 이미지와 SIFT features로 분리되어 저장된 1개의 데이터 셋이다.<br>
       (The final dataset consists of one, separated by images and SIFT features.)
+      ![](./img/pre-processing.png)
     - Matching
     - Geometric Estimation
   - **Session 3**
