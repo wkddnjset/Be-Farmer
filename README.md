@@ -6,7 +6,7 @@
       - Search Image from website (flickr.com)
   - **Session 2**
     - PreProcessing and Feature Extraction
-    ![Image]('./img/pre-processing.png')
+![](./img/pre-processing.png)
     - Matching
     - Geometric Estimation
   - **Session 3**
